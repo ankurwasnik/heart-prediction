@@ -1,0 +1,10 @@
+html{
+    font-size: 14px;
+    
+}
+
+.footer{
+    display: flexbox;
+    position: absolute;
+    align-self: center;
+}
